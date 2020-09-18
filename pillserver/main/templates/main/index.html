@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Document</title>
+
+    </head>
+    <body>
+        <h1>처방전 입력</h1>
+        <hr/>
+        <br/>
+        <form method="POST">
+            {%csrf_token%}
+            <p>
+                <input name="patientid" placeholder="환자 아이디" required/>
+            </p>
+            <p>
+                <input name="pillname" placeholder="처방약 명" required/>
+            </p>
+            <p>
+                <input name="pilldosage" placeholder="처방량 (정/회/일)" required/>
+            </p>
+            <p>
+                <input name="userpw" placeholder="직원 번호" type="password" required/> 
+            </p>
+            <p>
+                <input type="submit" value="전송"/>
+            </p>
+        </form>
+    </body>
+</html>
