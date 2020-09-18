@@ -1,2 +1,2 @@
-# iot_pilldispenser
+# IoT_Pill Dispenser
 Raspberry PI - IoT Pill dispenser (Object detection based on distributed computing) 
