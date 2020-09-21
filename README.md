@@ -17,5 +17,12 @@ Raspberry PI - IoT Pill dispenser (Object detection based on distributed computi
  - Mapping storage of each pill & prescription 
 
 ## 02. Server :hospital:
+
+ 1. How to
+ (1) Install Docker
+ (2) Clone the repository
+ (3) Start the server
+    > docker-compose up --build
+ (4) Connect to localhost:8000
 ## 03. Raspberry Pi Device  :house:
 ## 04. Application :iphone:
