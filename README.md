@@ -4,6 +4,7 @@ Raspberry PI - IoT Pill dispenser (Object detection based on distributed computi
 
 ## 01. System Architecture
 
+![최종설계2](https://user-images.githubusercontent.com/48641519/94326722-ecdec100-ffe0-11ea-8830-2a25b1c807e8.png)
  1. Server  (Docker, Django) 
 - Remote prescription system for Immunosuppressant / Thrombocoagulant
 - Postgresql Presciption DB
