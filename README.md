@@ -51,5 +51,8 @@ Raspberry PI - IoT Pill dispenser (Object detection based on distributed computi
      
      -> 5.Interfacing Options -> 1.Camera - Enabled  
    ``` 
-
+   to check the camera
+   ```
+    raspistill -o output.jpg
+   ```
 ## 04. Application :iphone:
