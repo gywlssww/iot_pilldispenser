@@ -48,10 +48,7 @@ Raspberry PI - IoT Pill dispenser (Object detection based on distributed computi
 (2) install pi-camera
    ```
      sudo raspi-config
-     
-     5.Interfacing Options -> 1.Camera - Enabled
-     
-     
+     5.Interfacing Options -> 1.Camera - Enabled  
    ``` 
 
 ## 04. Application :iphone:
