@@ -42,5 +42,5 @@ Raspberry PI - IoT Pill dispenser (Object detection based on distributed computi
 ## 03. Raspberry Pi Device  :house:
 
 (1) install 3.5 touch screen
-[reference](https://www.instructables.com/Raspberry-Pi-Touchscreen-Display-Tutorial/)
+[driver to setup](https://github.com/waveshare/LCD-show)
 ## 04. Application :iphone:
