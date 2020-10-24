@@ -42,5 +42,16 @@ Raspberry PI - IoT Pill dispenser (Object detection based on distributed computi
 ## 03. Raspberry Pi Device  :house:
 
 (1) install 3.5 touch screen
+
 [driver to setup](https://github.com/waveshare/LCD-show)
+
+(2) install pi-camera
+   ```
+     sudo raspi-config
+     
+     5.Interfacing Options -> 1.Camera - Enabled
+     
+     
+   ``` 
+
 ## 04. Application :iphone:
