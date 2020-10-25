@@ -51,6 +51,11 @@ Raspberry PI - IoT Pill dispenser (Object detection based on distributed computi
      
      -> 5.Interfacing Options -> 1.Camera - Enabled  
    ``` 
+   ```
+   $ sudo apt-get update
+   
+   $ sudo apt-get install python-picamera python3-picamera
+   ```
    - to check the camera
    ```
     raspistill -o output.jpg
